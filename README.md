@@ -1,2 +1,2 @@
-# SoftCam.Key
+# SoftCam EMU
 SoftCam E2
